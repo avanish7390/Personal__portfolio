@@ -1,0 +1,43 @@
+[
+  {
+    "name": "E-LEARNING",
+    "desc": "This project offers an exceptional selection of courses for B.Tech and B.Pharma and certifications.The project is developed HTML, CSS, and JavaScript.",
+    "image": "WEB1",
+    "category":"WEB DEVELOPMENT",
+    "links": {
+      "view": "https://gyanget.com/",
+      "code": "https://github.com/avanish7390/E-LEARNING.git"
+    }
+  },
+  {
+    "name": " Angry Birds",
+    "desc": " In this game the birds are in the cage and the birds got very angry, and they want to back. This project was implemented using HTML, CSS, and JavaScript.",
+    "image": "WEB2",
+    "category":"WEB DEVELOPMENT",
+    "links": {
+      "view": "  ",
+      "code": "https://github.com/avanish7390/Angry-Bird.git"
+    }
+  },
+  {
+    "name": "BILLING SYSTEM",
+    "desc": "A Python-programmed billing system is a vital business tool for seamless payment processing and effective financial management.",
+    "image": "PYTHON1",
+    "category":"PYTHON",
+    "links": {
+      "view": " ",
+      "code": "https://github.com/avanish7390/billing-system.git"
+    }
+  },
+  {
+    "name": "MINESWEEPER",
+    "desc": "Immerse yourself in an absorbing puzzle game, strategically clearing a Minesweeper board full of hidden mines to avoid detonations. Implemented using Python programming.",
+    "image": "PYTHON2",
+    "category":"PYTHON",
+    "links": {
+      "view": " ",
+      "code": " httpsgithub.comavanish7390MINESWEEPER.git"
+    }
+  }
+  
+]
