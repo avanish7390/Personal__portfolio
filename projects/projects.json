@@ -36,7 +36,17 @@
     "category":"PYTHON",
     "links": {
       "view": " ",
-      "code": " httpsgithub.comavanish7390MINESWEEPER.git"
+      "code": " https://github.com/avanish7390/MINESWEEPER"
+    }
+  },
+  {
+    "name": "Blog App",
+    "desc": " The blog app is carefully made to help users easily create, publish, and share their own written content on different platforms.",
+    "image": "blog",
+    "category":"Mern stack",
+    "links": {
+      "view": " ",
+      "code": "https://github.com/avanish7390/server"
     }
   }
   
