@@ -37,22 +37,6 @@ $(document).ready(function () {
         }, 500, 'linear')
     });
 
-    // <!-- emailjs to mail contact form data -->
-    $("#contact-form").submit(function (event) {
-        emailjs.init("user_TTDmetQLYgWCLzHTDgqxm");
-
-        emailjs.sendForm('contact_service', 'template_contact', '#contact-form')
-            .then(function (response) {
-                console.log('SUCCESS!', response.status, response.text);
-                document.getElementById("contact-form").reset();
-                alert("Form Submitted Successfully");
-            }, function (error) {
-                console.log('FAILED...', error);
-                alert("Form Submission Failed! Try Again");
-            });
-        event.preventDefault();
-    });
-    // <!-- emailjs to mail contact form data -->
 
 });
 
@@ -223,7 +207,7 @@ srtop.reveal('.home .linkedin', { interval: 600 });
 srtop.reveal('.home .github', { interval: 800 });
 srtop.reveal('.home .twitter', { interval: 1000 });
 srtop.reveal('.home .telegram', { interval: 600 });
-srtop.reveal('.home .instagram', { interval: 600 });
+srtop.reveal('.home .discord', { interval: 600 });
 srtop.reveal('.home .dev', { interval: 600 });
 
 /* SCROLL ABOUT */
