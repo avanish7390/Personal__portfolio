@@ -52,7 +52,12 @@
     {
         "name": "Excel",
         "icon": "https://img.icons8.com/?size=100&id=117561&format=png&color=000000"
-    }
+    },
+    {
+        "name": "AWS Cloud",
+        "icon": "https://img.icons8.com/?size=100&id=33039&format=png&color=000000"
+    },
+
 
 ]  
 
