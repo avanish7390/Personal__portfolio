@@ -5,7 +5,7 @@
     "image": "WEB1",
     "category":"WEB DEVELOPMENT",
     "links": {
-      "view": "https://gyanget.com/",
+      "view": "https://gyanget.netlify.app/",
       "code": "https://github.com/avanish7390/E-LEARNING.git"
     }
   },
@@ -40,13 +40,13 @@
     }
   },
   {
-    "name": "Blog App",
+    "name": "BLOGOSPHERE APP",
     "desc": " The blog app is carefully made to help users easily create, publish, and share their own written content on different platforms.",
-    "image": "blog",
+    "image": "image",
     "category":"Mern stack",
     "links": {
-      "view": " ",
-      "code": "https://github.com/avanish7390/server"
+      "view": " https://blogosphere-l49p.onrender.com/",
+      "code": "https://github.com/avanish7390/BLOGOSPHERE"
     }
   }
   

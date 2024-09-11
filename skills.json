@@ -3,6 +3,10 @@
         "name": "POWER BI",
         "icon": "https://img.icons8.com/color/48/power-bi.png"
     },
+    {
+        "name": "AWS Cloud",
+        "icon": "https://img.icons8.com/?size=100&id=33039&format=png&color=000000"
+    },
   
     {
         "name": "HTML5",
@@ -54,8 +58,8 @@
         "icon": "https://img.icons8.com/?size=100&id=117561&format=png&color=000000"
     },
     {
-        "name": "AWS Cloud",
-        "icon": "https://img.icons8.com/?size=100&id=33039&format=png&color=000000"
+        "name": "Tailwind CSS",
+        "icon": "https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000"
     }
 
 

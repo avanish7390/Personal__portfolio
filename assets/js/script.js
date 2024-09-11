@@ -44,19 +44,18 @@ document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
             document.title = "Portfolio | AVANISH SINGH";
-            $("#favicon").attr("href", "assets/images/favicon.svg");
+         ;
         }
-        // else {
-        //     document.title = "Return to Portfolio.";
-        //     $("#favicon").attr("href", "assets/images/aa.png");
-        // }
+        else {
+            document.title = "Come back soon!";
+        }
     });
     
 
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["frontend Developer", "POWER BI"],
+    strings: ["frontend Developer", "Data Analysis", "AWS" ],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
