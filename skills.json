@@ -9,7 +9,7 @@
         "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
     },
     {
-        "name": "CSS3",
+        "name": "CSS",
         "icon": "https://img.icons8.com/color/48/000000/css3.png"
     },
     {
@@ -30,10 +30,6 @@
         "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
     },
     {
-        "name": "Netlify",
-        "icon": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"
-    },
-    {
         "name": "GitHub",
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
     },
@@ -52,6 +48,10 @@
     {
         "name": "Node JS",
         "icon": "https://img.icons8.com/?size=48&id=hsPbhkOH4FMe&format=png"
+    },
+    {
+        "name": "Excel",
+        "icon": "https://img.icons8.com/?size=100&id=117561&format=png&color=000000"
     }
 
 ]  
